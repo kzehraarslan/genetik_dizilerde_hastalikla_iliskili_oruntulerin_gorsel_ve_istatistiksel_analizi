@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Data (raw büyük dosyalar istenmez)
+data/raw/
+
+# OS
+.DS_Store
+
+# Plots
+*.png
